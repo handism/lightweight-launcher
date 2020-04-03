@@ -1,7 +1,7 @@
 # lightweight-launcher
 
 ## 概要
-Windows向け軽量ランチャー
+Windows向けタスクトレイ常駐型軽量ランチャー
 
 ## 機能
 - exeをダブルクリックで起動するとタスクトレイに常駐する（要Windows）
